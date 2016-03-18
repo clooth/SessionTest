@@ -9,7 +9,10 @@
   "author": "Nico Hämäläinen",
   "license": "MIT",
   "dependencies": {
+    "connect": "^3.4.1",
+    "cookie-session": "^2.0.0-alpha.1",
     "express": "^4.12.4",
-    "koa": "^1.2.0"
+    "koa": "^1.2.0",
+    "koa-connect": "^1.0.0"
   }
 }
