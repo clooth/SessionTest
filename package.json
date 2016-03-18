@@ -1,0 +1,15 @@
+{
+  "name": "node-session-testing",
+  "version": "1.0.0",
+  "description": "node-session-testing",
+  "repository": "clooth/node-session-testing",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Nico Hämäläinen",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.12.4",
+    "koa": "^1.2.0"
+  }
+}
